@@ -9,3 +9,4 @@ const store  = configureStore(window.__INITIAL_STATE__);
 
 const node = <Root routerHistory={createBrowserHistory()} store={store}/>;
 ReactDOM.render(node, target);
+/*changing something*/
