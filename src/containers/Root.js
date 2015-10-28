@@ -8,7 +8,7 @@ import { createDevToolsWindow } from '../utils';
 import { DevTools, LogMonitor, DebugPanel } from 'redux-devtools/lib/react';
 
 export default class Root extends React.Component {
-
+// change
   // routerHistory is provided by the client bundle to determine which
   // history to use (memory, hash, browser). routingContext, on the other hand,
   // is provided by the server and provides a full router state.
